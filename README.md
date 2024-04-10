@@ -6,5 +6,5 @@ The primary objective of this Power BI dashboard is to optimize the performance 
 
 ## Dashboard Snapshots
 
-![Dashboard Snapshot](Snapshot_Marketing)
-![Dashboard Snapshot](Snapshot_Sales)
+![Dashboard Snapshot](Snapshot_Marketing.png)
+![Dashboard Snapshot](Snapshot_Sales.png)
